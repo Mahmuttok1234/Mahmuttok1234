@@ -1,9 +1,4 @@
  
-  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahmuttok1234&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
-  
-  
-  
  ### Demo 
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
