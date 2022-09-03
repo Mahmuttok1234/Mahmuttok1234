@@ -1,43 +1,17 @@
-# Hey there :wave: 
+# My GitHub contributions as a Game of Life 
   
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> 
+ [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson) 
   
- <p align="center">  
-   Visitor count<br> 
-   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" /> 
- </p> 
+ (Be sure to click on it for the infinite scrolling version.) 
   
- ## About me 
+ ### What's this? 
   
- I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover.  
+ This takes my GitHub contribution graph and uses it as the initial state for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a popular cellular automaton that is often built by beginning software developers as an easy-to-implement but interesting piece of software. 
   
- I ocassionally blog and tweet about android. Also open sourced few android related stuff.   
+ Conway's Game of Life only defines two initial states for cells, but there are [multi-color variants](https://conwaylife.com/ref/mniemiec/color.htm).  This is a variant of "Quad Life" (chosen because the GitHub contribution graph has four colors that represent the intensity of contributions for a given day): in the typical Game of Life rules, a graph with a lot of contribution would die out in the first iteration (because the cells would be overcrowded), which seems to punish those with a lot of contributions, giving them a boring Game of Life.  Intead, this variant "decays" the level of contribution, so cells will fade away instead of dying immediately. 
   
+ ### How does it work? 
   
- ## Things I am passionate about 
+ This uses a JavaScript library called [contributions](https://npmjs.com/contributions) to create a data structure with a GitHub contribution graph, and uses that as the initial state for another JavaScript library called [dat-life](http://npmjs.com/dat-life). 
   
- - Android :robot: 
- - Open source :octocat: 
-  
- ## Get in touch :coffee: 
-  
- - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar). 
- - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya). 
- - Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya) 
- - And of course GitHub you're already on (Recursion). 
-  
-  
- <!-- 
- **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-  
- Here are some ideas to get you started: 
-  
- - 🔭 I’m currently working on ... 
- - 🌱 I’m currently learning ... 
- - 👯 I’m looking to collaborate on ... 
- - 🤔 I’m looking for help with ... 
- - 💬 Ask me about ... 
- - 📫 How to reach me: ... 
- - 😄 Pronouns: ... 
- - ⚡ Fun fact: ... 
- -->
+ A simple Node.js application called [github4life](https://github.com/ethomson/github4life) -- so named because it takes a _GitHub_ contribution graph and turns it into a _4_ color Game of _Life_ -- renders this as an animated GIF.  When talking to GitHub's image caching service (camo) it will render 20 frames and then stop (so that the resulting image can actually be cached) but when you hit it with your web browser, it will render the game of life on-demand - infinitely continuing to deliver you the next state as a new frame in the GIF, forever.
