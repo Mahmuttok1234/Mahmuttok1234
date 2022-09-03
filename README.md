@@ -1,16 +1,4 @@
-<div align="center"> 
+<p align=center><img src="/waka.png"></p> 
+ <p align=center><a href="https://github.com/avinal/Profile-Readme-WakaTime/blob/master/LICENSE"><img src="https://img.shields.io/github/license/avinal/Profile-Readme-WakaTime" alt="License"></a> <a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a> <a href="https://github.com/avinal/lark"><img src="https://img.shields.io/badge/uses-avinal%2Flark-blueviolet"></a> <img src="https://github.com/avinal/avinal/workflows/Build%20Graph/badge.svg" alt="Build"> <img src="https://wakatime.com/badge/github/avinal/Profile-Readme-WakaTime.svg" alt="Time Tracked"> <a href="https://github.com/avinal/Profile-Readme-WakaTime/discussions"><img src="https://img.shields.io/badge/QnA-Discussions-blueviolet"></a></p> 
   
- [![][logo-url]][repo-url]   
-  
- **Tailwind CSS Components**   
- [ [See repo ↗︎][repo-url] ] 
-    
-  
- </div> 
-  
- [![][banner-url]][repo-url]   
-  
-  
- [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg 
- [repo-url]: https://github.com/saadeghi/daisyui 
- [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+ If you use WakaTime to track your coding activity. You can add that to your README as a bar graph or embed in your blog/portfolio. Just add this action to any of your repository and there you have it. See mine below.
