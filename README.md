@@ -26,7 +26,6 @@ Hi my name Mahmut,
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
  ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff) 
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) 
- ![JSON](https://img.shields.io/badKuge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff) 
  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
  ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) 
  ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) 
