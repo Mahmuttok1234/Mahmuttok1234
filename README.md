@@ -10,51 +10,6 @@
   
  # Top Languages Card 
   
- The top languages card shows a GitHub user's most frequently used top language. 
-  
- _NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats._ 
-  
- ### Usage 
-  
- Copy-paste this code into your readme and change the links. 
-  
- Endpoint: `api/top-langs?username=anuraghazra` 
-  
- ```md 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
- ``` 
-  
- ### Exclude individual repositories 
-  
- You can use `&exclude_repo=repo1,repo2` parameter to exclude individual repositories. 
-  
- ```md 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) 
- ``` 
-  
- ### Hide individual languages 
-  
- You can use `&hide=language1,language2` parameter to hide individual languages. 
-  
- ```md 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) 
- ``` 
-  
- ### Show more languages 
-  
- You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5. 
-  
- ```md 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
- ``` 
-  
- ### Compact Language Card Layout 
-  
- You can use the `&layout=compact` option to change the card design. 
-  
- ```md 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
- ``` 
   
  ### Demo 
   
