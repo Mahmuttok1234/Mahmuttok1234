@@ -5,7 +5,7 @@ Hi my name Mahmut,
   
  Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. 
   
- 💻 **Languages and Tools:** 🛠️<br> 
+🌐 **Website:** 🗂<br>
 
    [![Build Status](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain) 
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
@@ -13,6 +13,8 @@ Hi my name Mahmut,
  [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys) 
  [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-go/) 
   
+ 💻 **Languages and Tools:** 🛠️<br> 
+
 
  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) 
  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff) 
@@ -24,7 +26,7 @@ Hi my name Mahmut,
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
  ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff) 
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) 
- ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff) 
+ ![JSON](https://img.shields.io/badKuge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff) 
  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
  ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) 
  ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js) 
