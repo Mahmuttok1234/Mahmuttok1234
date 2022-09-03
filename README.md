@@ -20,4 +20,35 @@
  </p> 
   
  --- 
- 
+  
+ ## Usage 
+ 1. Login to your Github account and create a new public repository with the same name as your username. 
+ 2. Initialize this repository with a readme.md file which would then be visible on your home page. 
+ 3. Open the website deployed using the above source code by clicking [<u>here</u>](https://github-profile-readme-creator.web.app) and fill in the details you want to display 
+ to your visitors. 
+ 4. Copy/Download the markdown dynamically generated by filling the form. 
+ 5. Paste the markdown content to your readme.md file (Created in step 2) and commit the changes. 
+ 6. Congratulations! Your profile should be visible with a readme.md file now. 
+  
+ ## Features 
+ * Displays Basic information in user-friendly and intutitve way. 
+ * Badges for all social media links and portfolio. 
+ * Link your Resume to your Github Profile. 
+ * Monitor hits on your profile by `Profile Views`. 
+ * Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more. 
+ * Get distribution on various programming languages used by you. 
+  
+ ## Demo 
+ <kbd>![Demo](https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.gif)</kbd> 
+  
+ ## Screenshots 
+ <kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="400"/></kbd> 
+ </br></br> 
+ <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd> 
+  
+ ## Demo Output 
+ <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Profile.png" style="border:5px solid #fff"/></kbd> 
+  
+ ## Contributions 
+ Contributions are welcomed! <3 <br/> 
+ Open an issue or a pull request to contribute.
