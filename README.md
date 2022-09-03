@@ -1,4 +1,4 @@
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. 
+My name is Mahmut and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. 
   
  ## 🔧 Technologies & Tools 
  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
