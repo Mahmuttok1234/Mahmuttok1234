@@ -57,33 +57,7 @@ Hi my name Mahmut,
  ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B) 
  ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20) 
   
-  
- <!-- ✅  **GitHub Extra Pins** 
-  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) --> 
-  
- </br> 
- <p style="display: flex; justify-contect: space-between;"> 
- <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" /> 
- <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /> 
- 
-<!-- ✅  **GitHub Extra Pins** 
-  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) --> 
-  
- </br> 
- <p style="display: flex; justify-contect: space-between;"> 
- <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" /> 
- <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /> 
- </p>
-
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
